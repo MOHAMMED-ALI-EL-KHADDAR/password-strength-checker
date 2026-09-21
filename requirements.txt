@@ -1,0 +1,18 @@
+# Password Strength Checker - Production Dependencies
+# Python 3.10+
+
+# Core password analysis
+zxcvbn==4.4.33
+
+# HTTP requests for HaveIBeenPwned API
+requests==2.31.0
+
+# Terminal UI and rich formatting
+rich==13.7.0
+
+# Standard library (included with Python)
+# hashlib - for SHA-1 hashing
+# getpass - for secure password input
+# re - for regex pattern matching
+# math - for entropy calculations
+# collections - for character frequency analysis

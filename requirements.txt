@@ -2,7 +2,7 @@
 # Python 3.10+
 
 # Core password analysis
-zxcvbn==4.4.33
+zxcvbn
 
 # HTTP requests for HaveIBeenPwned API
 requests==2.31.0
